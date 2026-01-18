@@ -47,3 +47,8 @@ console.log(typeof myfunction);
 
 
 
+//======================================================================================================//
+//memory management is primarily automatic, handled by the JavaScript engine through a process called garbage collection
+//JavaScript engines (like V8 in Chrome and Node.js) use two primary memory areas to store data: 
+//1.Stact(primitive)
+//2.heap(non-primitive)
