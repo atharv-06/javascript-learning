@@ -1,4 +1,6 @@
-# JavaScript Daily Practice
+# 🚀 JavaScript Learning Repository
 
-This repository contains my daily JavaScript practice.
-I am learning JavaScript fundamentals step by step and committing code daily.
+Welcome to my JavaScript learning journey!  
+This repository contains structured folders and examples covering JavaScript concepts from basics to advanced topics.
+
+---
