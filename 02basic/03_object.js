@@ -1,6 +1,4 @@
-//singleton
-
-//object literls
+// creating the object using object literls
 
 let JsUser = {
     firstName: "Atharv",
